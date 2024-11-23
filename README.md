@@ -19,17 +19,21 @@
     
 ✨ Article
   - **[Creating an AI assistant for industrial robots](https://www.scitw.cc/tags/sheng1-cheng2-shi4-AI)**
-      **Scientific American 2024.05** (Taiwan Scientists Co., Ltd.)
-    
-      ![Screenshot 2024-05-08 at 12.03.27 AM](https://hackmd.io/_uploads/B1A0eCwzA.png)
+    >  **Scientific American 2024.05** (Taiwan Scientists Co., Ltd.)
+     ![image](https://github.com/user-attachments/assets/5595e84c-0d68-43a7-8bd9-f51192d84e60)
+
 
 ## Awards 🏆
 - Master's Program Entrance Scholarship, 2023
 - Competition Award - Preferred Award, Pilot Cup - Drone Creative Application Competition, 2021
 - Competition Award - Excellent Work (Automatic Robotic Group), 26th TDK Cup, 2021
 - Competition Award - Selection Award (Remote Control Robotic Group), 24th TDK Cup, 2019
+![image](https://github.com/user-attachments/assets/44f01723-af53-44c5-9505-d49a9ca209ab)
+
 
 ## Work Experience 💼
 ### Automatic System Development Engineer at Hong Long Technology Co., Ltd.
 - Development of Automated Machinery Systems for the Footwear Industry (Jan 2023 ~ Oct 2024 )
-- Project Goal: Integrate plasma process into the shoe manufacturing industry, replacing traditional methods to improve production efficiency and yield, and deploy machinery to clients.
+- Goal: Integrate plasma process into the shoe manufacturing industry, replacing traditional methods to improve production efficiency and yield, and deploy machinery to clients.
+![image](https://github.com/user-attachments/assets/df54d11a-1644-4492-a48c-f5cab274efe7)
+
