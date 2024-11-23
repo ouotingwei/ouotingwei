@@ -9,7 +9,6 @@
 > National Chiao Tung University (NCTU)
 - Bachelor's Degree in Mechanical Engineering
 - Research Interest: Mobile Robot, LiDAR Indoor Positioning
-- GPA: 3.85/4.30
   
 ## Publication 👇
 > Conference Paper
