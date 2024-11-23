@@ -28,12 +28,12 @@
 - Competition Award - Preferred Award, Pilot Cup - Drone Creative Application Competition, 2021
 - Competition Award - Excellent Work (Automatic Robotic Group), 26th TDK Cup, 2021
 - Competition Award - Selection Award (Remote Control Robotic Group), 24th TDK Cup, 2019
-![image](https://github.com/user-attachments/assets/44f01723-af53-44c5-9505-d49a9ca209ab)
-
+![image](https://github.com/user-attachments/assets/4ed9793a-47c3-4f68-aaef-a4708a1ed616)
 
 ## Work Experience 💼
 ### Automatic System Development Engineer at Hong Long Technology Co., Ltd.
-- Development of Automated Machinery Systems for the Footwear Industry (Jan 2023 ~ Oct 2024 )
-- Goal: Integrate plasma process into the shoe manufacturing industry, replacing traditional methods to improve production efficiency and yield, and deploy machinery to clients.
-![image](https://github.com/user-attachments/assets/df54d11a-1644-4492-a48c-f5cab274efe7)
+🔭 Development of Automated Machinery Systems for the Footwear Industry (Jan 2023 ~ Oct 2024 )
+ > ![image](https://github.com/user-attachments/assets/df54d11a-1644-4492-a48c-f5cab274efe7)
 
+🔭 Automated Plasma Pre-treatment and Coating Project for Baking Molds
+> ![image](https://github.com/user-attachments/assets/f7851b3c-3359-4081-9e9e-60ff04fd2eb0)
