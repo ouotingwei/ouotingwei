@@ -8,7 +8,6 @@
 
 > National Chiao Tung University (NCTU)
 - Bachelor's Degree in Mechanical Engineering
-- Research Interest: Mobile Robot, LiDAR Indoor Positioning
   
 ## Publication 👇
 ✨ Conference Paper
@@ -22,6 +21,8 @@
     >  **Scientific American 2024.05** (Taiwan Scientists Co., Ltd.)
      ![image](https://github.com/user-attachments/assets/5595e84c-0d68-43a7-8bd9-f51192d84e60)
 
+## Language 💻
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouotingwei&hide=MakeFile,CMake,fortran&layout=compact)](https://github.com/ouotingwei/ouotingwei/edit/main/README.md)
 
 ## Awards 🏆
 - Master's Program Entrance Scholarship, 2023
@@ -37,3 +38,8 @@
 
 🔭 Automated Plasma Pre-treatment and Coating Project for Baking Molds
 > ![image](https://github.com/user-attachments/assets/f7851b3c-3359-4081-9e9e-60ff04fd2eb0)
+
+
+
+
+![](https://komarev.com/ghpvc/?username=ouotingwei)
