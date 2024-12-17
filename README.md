@@ -25,6 +25,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouotingwei&hide=MakeFile,CMake,fortran&layout=compact)](https://github.com/ouotingwei/ouotingwei/edit/main/README.md)
 
 ## Awards 🏆
+- Graduate Research Scholarship, 2024
 - Master's Program Entrance Scholarship, 2023
 - Competition Award - Preferred Award, Pilot Cup - Drone Creative Application Competition, 2021
 - Competition Award - Excellent Work (Automatic Robotic Group), 26th TDK Cup, 2021
