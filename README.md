@@ -11,9 +11,9 @@
   
 ## Publication 👇
 ✨ Conference Paper
-  - **[Application of BERT-based Language Model for Visual SLAM in Feature Selection](https://drive.google.com/drive/folders/1ba3bHFVMWwgVgKgtRCuO9dPxPa6XKGiS)**
+  - **Application of BERT-based Language Model for Visual SLAM in Feature Selection**
     > International Conference on Advanced Robotics and Intelligent Systems (**ARIS 2024**, One-page paper presentation)
-  - **[Rapidly Deployable and User-Friendly Interface Design for Linking LLMs with Industrial Robots](https://drive.google.com/drive/folders/167DY42o4_MkDXNXSgLH1Ah4W4BeuTmFl)**
+  - **Rapidly Deployable and User-Friendly Interface Design for Linking LLMs with Industrial Robots**
     > International Conference on System Science and Engineering (**ICSSE 2024**, One-page paper presentation)
     
 ✨ Article
