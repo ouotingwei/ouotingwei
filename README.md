@@ -3,7 +3,7 @@
 ## Education 	🎓 
 > National Yang Ming Chiao Tung University (NYCU)
 - Graduate Degree Program of Robotics
-- Research Interest: Visual Localization System, Multi-Sensor Fusion, Robotic System
+- Research Interest: Visual Perception & LOcalization, Multi-Sensor Fusion, Robotic System
 - Advisor: Prof. Kuu Young, Young 
 
 > National Chiao Tung University (NCTU)
