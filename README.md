@@ -22,7 +22,7 @@
      ![image](https://github.com/user-attachments/assets/5595e84c-0d68-43a7-8bd9-f51192d84e60)
 
 ## Language 💻
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouotingwei&hide=MakeFile,CMake,fortran&layout=compact)](https://github.com/ouotingwei/ouotingwei/edit/main/README.md)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouotingwei&hide=MakeFile,CMake,fortran,cuda&layout=compact)](https://github.com/ouotingwei/ouotingwei/edit/main/README.md)
 
 ## Awards 🏆
 - Graduate Research Scholarship, 2024
