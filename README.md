@@ -19,7 +19,6 @@
 ✨ Article
   - **[Creating an AI assistant for industrial robots](https://www.scitw.cc/tags/sheng1-cheng2-shi4-AI)**
     >  **Scientific American 2024.05** (Taiwan Scientists Co., Ltd.)
-     ![image](https://github.com/user-attachments/assets/5595e84c-0d68-43a7-8bd9-f51192d84e60)
 
 ## Language 💻
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouotingwei&hide=MakeFile,CMake,NASL,shell,fortran,cuda&layout=compact)](https://github.com/ouotingwei/ouotingwei/edit/main/README.md)
