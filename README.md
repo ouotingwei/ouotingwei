@@ -11,6 +11,8 @@
   
 ## Publication 👇
 ✨ Conference
+  - **Development of an Autonomous Mobile Robotic System for Efficient and Precise Disinfection**
+    > ?
   - **Application of BERT-based Language Model for Visual SLAM in Feature Selection**
     > International Conference on Advanced Robotics and Intelligent Systems (**ARIS 2024**, Poster/Oral)
   - **Rapidly Deployable and User-Friendly Interface Design for Linking LLMs with Industrial Robots**
