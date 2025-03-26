@@ -14,9 +14,9 @@
   - **Development of an Autonomous Mobile Robotic System for Efficient and Precise Disinfection**
     > ?
   - **Application of BERT-based Language Model for Visual SLAM in Feature Selection**
-    > International Conference on Advanced Robotics and Intelligent Systems (**ARIS 2024**, Poster/Oral)
+    > International Conference on Advanced Robotics and Intelligent Systems (**ARIS 2024**, Oral)
   - **Rapidly Deployable and User-Friendly Interface Design for Linking LLMs with Industrial Robots**
-    > International Conference on System Science and Engineering (**ICSSE 2024**, Poster/Oral)
+    > International Conference on System Science and Engineering (**ICSSE 2024**, Oral)
     
 ✨ Article
   - **[Creating an AI assistant for industrial robots](https://www.scitw.cc/tags/sheng1-cheng2-shi4-AI)**
