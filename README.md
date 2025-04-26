@@ -1,4 +1,11 @@
-<img src="https://github.com/user-attachments/assets/3ac2776f-0a00-480c-987a-73f448c54e39" width="1000" />
+<hr>
+<h1 align="center">
+  Hi I'm TingWei Ou <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+  <p>Research student @ Graduate Degree Program of Robotics</p>
+  <p>Check out my YouTube channel for videos on my experiments and some cool projects.</p>
+</h1>
+
+[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCVkgSwlkm3xhhxy1ayPU5oQ) 
 
 ## Education 	🎓 
 > National Yang Ming Chiao Tung University (NYCU)
