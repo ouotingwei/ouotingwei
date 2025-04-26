@@ -22,9 +22,6 @@
   - **[Creating an AI assistant for industrial robots](https://www.scitw.cc/tags/sheng1-cheng2-shi4-AI)**
     >  **Scientific American 2024.05** (Taiwan Scientists Co., Ltd)
 
-## Language 💻
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouotingwei&hide=MakeFile,CMake,NASL,shell,fortran,cuda&layout=compact)](https://github.com/ouotingwei/ouotingwei/edit/main/README.md)
-
 ## Awards 🏆
 - Graduate Research Scholarship(NYCU, ROB), 2024
 - Master's Program Entrance Scholarship(NYCU, ROB), 2023
@@ -40,5 +37,8 @@
 ### Team Leader @ NCTU iTron Robotic Team
 Develop a Robotic Platform for TDK Cup ( 2020 ~ 2021 )
 ![image](https://github.com/user-attachments/assets/4ed9793a-47c3-4f68-aaef-a4708a1ed616)
+
+## Language 💻
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouotingwei&hide=MakeFile,CMake,NASL,shell,fortran,cuda&layout=compact)](https://github.com/ouotingwei/ouotingwei/edit/main/README.md)
 
 ![](https://komarev.com/ghpvc/?username=ouotingwei)
