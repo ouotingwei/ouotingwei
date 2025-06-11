@@ -34,7 +34,7 @@
  > ![image](https://github.com/user-attachments/assets/df54d11a-1644-4492-a48c-f5cab274efe7)
 
 ### Team Leader @ NCTU iTron Robotic Team
-Develop a Robotic Platform for TDK Cup ( 2020 ~ 2021 )
+🔭 Develop a Robotic Platform for TDK Cup ( 2020 ~ 2021 )
 ![image](https://github.com/user-attachments/assets/4ed9793a-47c3-4f68-aaef-a4708a1ed616)
 
 ## Language 💻
@@ -46,6 +46,6 @@ Develop a Robotic Platform for TDK Cup ( 2020 ~ 2021 )
 - 陽明交大機器人碩士獎學金, 2025
 - 陽明交大機器人碩士獎學金, 2024
 - 陽明交大機器人碩士入學獎學金, 2023
-- 第一屆領航盃-無人機創意應用大賽 - 優選獎 2021
+- 第一屆領航盃-無人機創意應用大賽 - 優選獎, 2021
 - 第26屆TDK盃全國大專校院創思設計與製作競賽 - 遙控機器人組佳作, 2021
 - 第24屆TDK盃全國大專校院創思設計與製作競賽 - 遙控機器人組入圍, 2019
