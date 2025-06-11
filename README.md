@@ -29,12 +29,12 @@
     >  **Scientific American 2024.05** (Taiwan Scientists Co., Ltd)
 
 ## Awards 🏆
-- Graduate Research Scholarship(NYCU, ROB), 2025
-- Graduate Research Scholarship(NYCU, ROB), 2024
-- Master's Program Entrance Scholarship(NYCU, ROB), 2023
-- Competition Award - Preferred Award, Pilot Cup - Drone Creative Application Competition, 2021
-- Competition Award - Excellent Work (Automatic Robotic Group), 26th TDK Cup, 2021
-- Competition Award - Selection Award (Remote Control Robotic Group), 24th TDK Cup, 2019
+- 陽明交大機器人碩士獎學金, 2025
+- 陽明交大機器人碩士獎學金, 2024
+- 陽明交大機器人碩士入學獎學金, 2023
+- 第一屆領航盃-無人機創意應用大賽 - 優選獎 2021
+- 第26屆TDK盃全國大專校院創思設計與製作競賽 - 遙控機器人組佳作, 2021
+- 第24屆TDK盃全國大專校院創思設計與製作競賽 - 遙控機器人組入圍, 2019
 
 ## Experience 💼
 ### Automatic System Development Engineer @ Hong Long Technology Co., Ltd.
