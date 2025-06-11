@@ -29,6 +29,7 @@
     >  **Scientific American 2024.05** (Taiwan Scientists Co., Ltd)
 
 ## Awards 🏆
+- Graduate Research Scholarship(NYCU, ROB), 2025
 - Graduate Research Scholarship(NYCU, ROB), 2024
 - Master's Program Entrance Scholarship(NYCU, ROB), 2023
 - Competition Award - Preferred Award, Pilot Cup - Drone Creative Application Competition, 2021
