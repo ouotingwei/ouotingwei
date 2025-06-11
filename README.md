@@ -28,14 +28,6 @@
   - **[Creating an AI assistant for industrial robots](https://www.scitw.cc/tags/sheng1-cheng2-shi4-AI)**
     >  **Scientific American 2024.05** (Taiwan Scientists Co., Ltd)
 
-## Awards 🏆
-- 陽明交大機器人碩士獎學金, 2025
-- 陽明交大機器人碩士獎學金, 2024
-- 陽明交大機器人碩士入學獎學金, 2023
-- 第一屆領航盃-無人機創意應用大賽 - 優選獎 2021
-- 第26屆TDK盃全國大專校院創思設計與製作競賽 - 遙控機器人組佳作, 2021
-- 第24屆TDK盃全國大專校院創思設計與製作競賽 - 遙控機器人組入圍, 2019
-
 ## Experience 💼
 ### Automatic System Development Engineer @ Hong Long Technology Co., Ltd.
 🔭 Development of Automated Machinery Systems for the Footwear Industry ( Jan 2023 ~ Oct 2024 )
@@ -49,3 +41,11 @@ Develop a Robotic Platform for TDK Cup ( 2020 ~ 2021 )
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouotingwei&hide=MakeFile,CMake,NASL,shell,fortran,cuda&layout=compact)](https://github.com/ouotingwei/ouotingwei/edit/main/README.md)
 
 ![](https://komarev.com/ghpvc/?username=ouotingwei)
+
+## Awards 🏆
+- 陽明交大機器人碩士獎學金, 2025
+- 陽明交大機器人碩士獎學金, 2024
+- 陽明交大機器人碩士入學獎學金, 2023
+- 第一屆領航盃-無人機創意應用大賽 - 優選獎 2021
+- 第26屆TDK盃全國大專校院創思設計與製作競賽 - 遙控機器人組佳作, 2021
+- 第24屆TDK盃全國大專校院創思設計與製作競賽 - 遙控機器人組入圍, 2019
