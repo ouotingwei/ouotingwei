@@ -18,7 +18,7 @@
 ## Publication 👇
 ✨ Conference
   - **Development of an Autonomous Mobile Robotic System for Efficient and Precise Disinfection**
-    > ?
+    > IEEE International Conference on Systems, Man, and Cybernetics (SMC) October 5-8, 2025 Vienna, Austria.
   - **Application of BERT-based Language Model for Visual SLAM in Feature Selection**
     > International Conference on Advanced Robotics and Intelligent Systems (**ARIS 2024**, Oral)
   - **Rapidly Deployable and User-Friendly Interface Design for Linking LLMs with Industrial Robots**
