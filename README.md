@@ -9,7 +9,7 @@
 ## Education 	🎓 
 > National Yang Ming Chiao Tung University (NYCU)
 - Graduate Degree Program of Robotics
-- Research Interest: Efficient Deep Learning for Robotic Perception & Localization
+- Research Interest: Deep Learning for Robotic Perception & Localization
 - Advisor: Prof. Kuu Young, Young 
 
 > National Chiao Tung University (NCTU)
