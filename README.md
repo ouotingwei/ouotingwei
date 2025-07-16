@@ -17,7 +17,7 @@
   
 ## Publication
 ### Conference Paper
-  - **Development of an Autonomous Mobile Robotic System for Efficient and Precise Disinfection**
+  - **[Development of an Autonomous Mobile Robotic System for Efficient and Precise Disinfection](https://arxiv.org/abs/2507.11270)**
     > IEEE International Conference on Systems, Man, and Cybernetics (SMC) October 5-8, 2025 Vienna, Austria.
 
 ### Oral Presentation
