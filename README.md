@@ -16,38 +16,13 @@
 - Bachelor's Degree in Mechanical Engineering
   
 ## Publication
-### Conference Paper
-  - **[Development of an Autonomous Mobile Robotic System for Efficient and Precise Disinfection](https://arxiv.org/abs/2507.11270)**
-    > IEEE International Conference on Systems, Man, and Cybernetics (SMC) October 5-8, 2025 Vienna, Austria.
-
-### Oral Presentation
-  - **Application of BERT-based Language Model for Visual SLAM in Feature Selection**
-    > International Conference on Advanced Robotics and Intelligent Systems (**ARIS 2024**, Oral)
-  - **Rapidly Deployable and User-Friendly Interface Design for Linking LLMs with Industrial Robots**
-    > International Conference on System Science and Engineering (**ICSSE 2024**, Oral)
+- **[Development of an Autonomous Mobile Robotic System for Efficient and Precise Disinfection](https://arxiv.org/abs/2507.11270)**
+  > IEEE International Conference on Systems, Man, and Cybernetics (SMC) October 5-8, 2025 Vienna, Austria.
     
-### Article
-  - **[Creating an AI assistant for industrial robots](https://www.scitw.cc/tags/sheng1-cheng2-shi4-AI)**
-    >  **Scientific American 2024.05** (Taiwan Scientists Co., Ltd)
-
-## Experience 
-### Automatic System Development Engineer @ Hong Long Technology Co., Ltd.
-Development of Automated Machinery Systems for the Footwear Industry ( Jan 2023 ~ Oct 2024 )
- > ![image](https://github.com/user-attachments/assets/df54d11a-1644-4492-a48c-f5cab274efe7)
-
-### Team Leader @ NCTU iTron Robotic Team
-Develop a Robotic Platform for TDK Cup ( 2020 ~ 2021 )
-![image](https://github.com/user-attachments/assets/4ed9793a-47c3-4f68-aaef-a4708a1ed616)
+- **[Creating an AI assistant for industrial robots](https://www.scitw.cc/tags/sheng1-cheng2-shi4-AI)**
+  >  **Scientific American 2024.05** (Taiwan Scientists Co., Ltd)
 
 ## Language 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouotingwei&hide=MakeFile,CMake,NASL,shell,fortran,cuda&layout=compact)](https://github.com/ouotingwei/ouotingwei/edit/main/README.md)
 
 ![](https://komarev.com/ghpvc/?username=ouotingwei)
-
-## Awards 
-- 陽明交大機器人碩士獎學金, 2025
-- 陽明交大機器人碩士獎學金, 2024
-- 陽明交大機器人碩士入學獎學金, 2023
-- 第一屆領航盃-無人機創意應用大賽 - 優選獎, 2021
-- 第26屆TDK盃全國大專校院創思設計與製作競賽 - 自動機器人組佳作, 2021
-- 第24屆TDK盃全國大專校院創思設計與製作競賽 - 遙控機器人組入圍, 2019
