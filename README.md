@@ -3,7 +3,18 @@
   Hi I'm TingWei Ou 
 </h1>
 
-[![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white")](https://www.youtube.com/channel/UCVkgSwlkm3xhhxy1ayPU5oQ) 
+<p align="center">
+  <a href="https://www.youtube.com/channel/UCVkgSwlkm3xhhxy1ayPU5oQ">
+    <img src="https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="mailto:kklb1716@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/ting-wei-ou-1a104b218/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+</p>
+
 
 ## Education  
 > National Yang Ming Chiao Tung University (NYCU)
