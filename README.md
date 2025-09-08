@@ -32,7 +32,4 @@
 - **[Creating an AI assistant for industrial robots](https://www.scitw.cc/tags/sheng1-cheng2-shi4-AI)**
   >  **Scientific American 2024.05** (Taiwan Scientists Co., Ltd)
 
-## Language 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ouotingwei&hide=MakeFile,CMake,NASL,shell,fortran,cuda&layout=compact)](https://github.com/ouotingwei/ouotingwei/edit/main/README.md)
-
 ![](https://komarev.com/ghpvc/?username=ouotingwei)
