@@ -1,6 +1,6 @@
 <hr>
 <h1 align="center">
-  Hi I'm TingWei Ou 
+  Hi I'm Wei
 </h1>
 
 <p align="center">
