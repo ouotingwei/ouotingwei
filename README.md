@@ -1,3 +1,3 @@
 
 <h1 align="center">
-  Hi I'm Wei
+  Hi I'm Wade
